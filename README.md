@@ -35,13 +35,15 @@ Aqui você encontrará:
 - ✔️ Códigos comentados
 - ✔️ Experimentos pessoais
 
-🗂️ Estrutura do Repositório
-- 📦 csharp-freecodecamp
-- ┣ 📁 01-fundamentos
+📦 csharp-freecodecamp
+- ┣  📁 01-fundamentos
 - ┣ 📁 02-estruturas-de-controle
-- ┣ 📁 03-colecoes
+- ┣ 📁 03-coleções
 - ┣ 📁 04-poo
 - ┣ 📁 05-projetos
+- ┣ 📄 .gitattributes
+- ┣ 📄 capa.svg
+- ┣ 📄 LICENSE
 - ┗ 📄 README.md
 
 
@@ -55,7 +57,7 @@ Aqui você encontrará:
 - [ ] Projetos Práticos
 - [ ] Revisão Geral
 🎯 Objetivos Pessoais
-- [ ] Criar repositório organizado
+- [x] Criar repositório organizado
 - [ ] Documentar exercícios
 - [ ] Criar mini-projetos em C#
 - [ ] Publicar projetos no GitHub Pages
