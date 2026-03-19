@@ -36,13 +36,12 @@ Aqui você encontrará:
 - ✔️ Experimentos pessoais
 
 📦 csharp-freecodecamp
-- ┣  📁 01-fundamentos
+- ┣ 📁 01-fundamentos
 - ┣ 📁 02-estruturas-de-controle
 - ┣ 📁 03-coleções
 - ┣ 📁 04-poo
 - ┣ 📁 05-projetos
 - ┣ 📄 .gitattributes
-- ┣ 📄 capa.svg
 - ┣ 📄 LICENSE
 - ┗ 📄 README.md
 
